@@ -1,0 +1,1 @@
+Simple Java dynamic proxy example.
